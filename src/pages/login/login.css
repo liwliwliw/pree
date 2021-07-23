@@ -1,0 +1,19 @@
+.header {
+  width: 315px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.header .denglu {
+  height: 100%;
+  color: #fff;
+  font-size: 12px;
+}
+
+.header .zhuce {
+  height: 100%;
+  color: #fff;
+  font-size: 12px;
+}
